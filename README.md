@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Gabriel! A passionate Data Analysis and Development student from Brazil.
 
-  - 🌱 I’m currently studying Data Analysis and Development at Fundação Santo André <img align="center" alt="html5" src="" />
+ - 🌱 I’m currently studying Data Analysis and Development at Fundação Santo André <img align="center" alt="Fundação Santo André" src="URL_DA_IMAGEM_DA_LOGO" />
 
   - 🔭 I am looking for my first job opportunity. My dream is to work as a Developer.
 </p>
@@ -38,9 +38,14 @@
 - [Loading...]()
 
 <!-- GIF -->
+<!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d" alt="Imagem">
+  <img src="https://media.giphy.com/media/QxSveBdhdtLgagcKdR/giphy.gif" alt="GIF">
 </p>
+
+
+
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -53,13 +58,16 @@
 
   </div>
   
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  </div>
-  
+ <!-- Skills: Tools & Frameworks -->
+<div style="flex-basis: 48%;">
+  <h3>Tools & Frameworks</h3>
+  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://simpleicons.org/icons/amazonaws.svg">
+  <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+</div>
+
+
+  <div style="background-color: #E6F7FF; padding: 20px;">
+
   <!-- Skills: Libraries -->
   
