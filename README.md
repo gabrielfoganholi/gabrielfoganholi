@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Gabriel! A passionate Data Analysis and Development student from Brazil.
 
- - 🌱 I’m currently studying Data Analysis and Development at Fundação Santo André <img align="center" alt="Fundação Santo André" src="URL_DA_IMAGEM_DA_LOGO" />
+ - 🌱 I’m currently studying Data Analysis and Development at Fundação Santo André 
 
   - 🔭 I am looking for my first job opportunity. My dream is to work as a Developer.
 </p>
