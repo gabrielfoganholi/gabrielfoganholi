@@ -32,7 +32,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Análise de Dados com Google Colab e Pandas](colab_pandas_graficos_analises.ipynb)
+- [Análise de Dados com Google Colab e Pandas](https://github.com/gabrielfoganholi/colab_pandas_graficos_analises/blob/58bb67f8d5b23b16629167a8282537e410c6b657/colab_pandas_graficos_analises.ipynb)
 - [Criando Gráficos de Candlestick com Matplotlib](Gráficos_Candlestick_Matplotlib.ipynb)
 - [Loading...]()
 - [Loading...]()
