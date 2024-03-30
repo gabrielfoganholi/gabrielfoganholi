@@ -32,7 +32,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Loading...]()
+- [Análise de Dados com Google Colab e Pandas](AnaliseDados_Colab_Pandas.ipynb)
 - [Loading...]()
 - [Loading...]()
 - [Loading...]()
