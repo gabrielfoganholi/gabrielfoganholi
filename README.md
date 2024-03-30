@@ -61,7 +61,8 @@
  <!-- Skills: Tools & Frameworks -->
 <div style="flex-basis: 48%;">
   <h3>Tools & Frameworks</h3>
-  <img align="center" alt="Linux" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"> 
+  <img align="center" alt="Linux" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+  <img align="center" alt="Plotly" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"> 
   <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"> 
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
