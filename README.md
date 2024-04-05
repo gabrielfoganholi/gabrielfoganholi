@@ -35,6 +35,7 @@
 - [Data Analysis with Google Colab and Pandas](https://github.com/gabrielfoganholi/colab_pandas_graficos_analises/blob/58bb67f8d5b23b16629167a8282537e410c6b657/colab_pandas_graficos_analises.ipynb)
 - [Creating Candlestick Charts with Matplotlib](https://github.com/gabrielfoganholi/Candlestick_Matplotlib/blob/be8dc4026b30a3f8aa4a3d3b195cb385579f3e6a/Gr%C3%A1ficos_Candlestick_Matplotlib.ipynb)
 - [Forecasting Time Series of Stocks and Careers in the Data Market](https://github.com/gabrielfoganholi/previsao_series_temporais_acoes_carreiras_dados/blob/3195bc517ddf56c1d836941670abaf9fb35294e2/previsao_series_temporais_acoes_carreiras_dados.ipynb)
+- [Pokedex](https://gabrielfoganholi.github.io/Pokedex/)
 - [Loading...]()
 
 <!-- GIF -->
