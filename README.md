@@ -6,7 +6,7 @@
 <!-- Presentation -->
 <p>
 
- - 🌱  Estudante de Análise e Desenvolvimento de Dados na Fundação Santo André
+ - 🌱  Estudante de Análise e Desenvolvimento de Ssitemas na Fundação Santo André
 
   - 🔭  Em busca da minha primeira oportunidade de trabalho como desenvolvedor.
 </p>
