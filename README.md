@@ -1,34 +1,28 @@
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World !</h1></summary>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Foganholi" />
+</h1>
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Gabriel! A passionate Data Analysis and Development student from Brazil.
 
- - 🌱 I’m currently studying Data Analysis and Development at Fundação Santo André 
+ - 🌱  Estudante de Análise e Desenvolvimento de Dados na Fundação Santo André
 
-  - 🔭 I am looking for my first job opportunity. My dream is to work as a Developer.
+  - 🔭  Em busca da minha primeira oportunidade de trabalho como desenvolvedor.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old, currently living in Brazil. I'm studying English and I'm very focused on college classes. My main skills are: creativity, communication, marketing, analytical skills, community management and social media.
+  - 💬 Sou Gabriel Moraes Foganholi. Comecei a aprender programação online com HTML, CSS e lógica de programação. Participei de uma imersão em Python, focando em análise de dados com Pandas e Matplotlib. Na faculdade, estudei Excel, PowerBI, DevOps, AWS e GitHub.
 
-  - ⚡ I like watching movies, listening to music, and I really like playing games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \o/
+  - ⚡ Sou apaixonado por música e coleciono discos de vinil. Adoro assistir filmes e séries. \o/
 </details>
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielfoganholi/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-foganholi-193b42213/)
-
-
-<!-- GithubStats -->
-![gabrielfoganholi GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfoganholi&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -51,7 +45,7 @@
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>     
+    <h3>Linguagens de Programação</h3>     
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
