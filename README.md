@@ -17,7 +17,7 @@
 
   - 💬 Sou Gabriel Moraes Foganholi. Comecei a aprender programação online com HTML, CSS e lógica de programação. Participei de uma imersão em Python, focando em análise de dados com Pandas e Matplotlib. Na faculdade, estudei Excel, PowerBI, DevOps, AWS e GitHub.
 
-  - ⚡ Sou apaixonado por música e coleciono discos de vinil. Adoro assistir filmes e séries. \o/
+  - ⚡ Sou apaixonado por música e coleciono discos de vinil. Adoro assistir filmes e séries.
 </details>
 
 <!-- Links -->
