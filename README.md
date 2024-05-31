@@ -13,7 +13,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Me encontre </summary>
 
   - 💬 Sou Gabriel Moraes Foganholi. Comecei a aprender programação online com HTML, CSS e lógica de programação. Participei de uma imersão em Python, focando em análise de dados com Pandas e Matplotlib. Na faculdade, estudei Excel, PowerBI, DevOps, AWS e GitHub.
 
