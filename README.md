@@ -1,40 +1,74 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Gabriel+Foganholi;QA+Engineer+|+Automation;Especialista+em+ERP+&+RPA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Gabriel+Foganholi;Front-end+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+Modern+Web+Applications" />
 </h1>
 
 <div align="center">
-  Especialista em análise de falhas, investigação de bugs críticos e automação de processos. 
-  Atuo na interseção entre análise técnica rigorosa e eficiência operacional em sistemas ERP complexos.
+Desenvolvedor Front-end apaixonado por criar interfaces modernas, responsivas e intuitivas.<br>
+Atualmente atuo como Analista de Suporte ERP, desenvolvendo automações, investigando bugs e colaborando com equipes de desenvolvimento para entregar sistemas mais estáveis e eficientes.
 </div>
 
 ---
 
-### 🔍 Core Expertise
-*   **Quality Assurance:** Testes E2E, Funcionais/Não-Funcionais, Plano de Testes e Bug Reporting.
-*   **Automação:** Especialista em **Power Automate** (RPA) e **Python** para eliminação de gargalos.
-*   **ERP Systems:** Validação de fluxos Fiscal, Vendas, Estoque e Financeiro.
-*   **Análise Técnica:** Root Cause Analysis, Git/GitHub e CI/CD.
+## 🚀 Tecnologias
+
+### Front-end
+- React
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vite
+
+### Ferramentas
+- Git & GitHub
+- REST APIs
+- SQL
+- Power Automate
+
+### Estudando
+- GraphQL
+- Shopify
+- VTEX
+- Performance Web
 
 ---
 
+## 💼 Experiência Profissional
 
+### Analista de Suporte ERP | Oficina Inteligente
+
+- Investigação, reprodução e documentação técnica de bugs.
+- Validação de funcionalidades e apoio às equipes de desenvolvimento.
+- Desenvolvimento de automações utilizando Power Automate para otimização de processos internos.
+- Consultas SQL para análise e validação de dados.
+- Suporte técnico em um ERP para gestão de oficinas mecânicas.
+
+---
+
+## 💻 Projetos
+
+- Desenvolvimento de websites modernos e responsivos utilizando React, TypeScript, HTML, CSS e Tailwind CSS.
+- Projetos publicados no GitHub.
+- Deploy de aplicações utilizando Vercel.
+- Experiência com componentização, consumo de APIs REST e versionamento com Git.
 
 ---
 
-### 💼 Experiência Profissional
-*   **Analista de Suporte ERP | Oficina Inteligente**
-    *   Investigação e documentação de bugs críticos (RCA).
-    *   Automação de processos bancários (CNAB/Itaú/Bradesco) via Power Automate.
-    *   Ponte técnica entre times de desenvolvimento e usuários de negócio.
+## 🎓 Certificações
+
+- JavaScript
+- HTML5 & CSS3
+- Git & GitHub
+- Quality Assurance
+- Power Automate
+- Artificial Intelligence Fundamentals (IBM)
+- UX Design
+- Lean Six Sigma
 
 ---
 
-### 🎓 Certificações
-*   **Quality Assurance & Power Automate** (Alura, 2026)
-*   **IBM AI Fundamentals** (2024) | **Lean Six Sigma** (2024)
-*   **Comunicação & Oratória** (Conquer, 2024)
-
----
+## 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-foganholi-193b42213/">
@@ -42,6 +76,3 @@
   </a>
 </p>
 
-<p align="center">
-  <code>gabriel@foganholi:~$ exit 0</code>
-</p>
