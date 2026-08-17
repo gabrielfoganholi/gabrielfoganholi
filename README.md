@@ -1,70 +1,64 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Gabriel+Foganholi;Front-end+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+Modern+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Gabriel+Foganholi;Junior+Database+Analyst;SQL+%7C+MySQL+%7C+ETL;Data+%7C+Database" />
 </h1>
 
 <div align="center">
-Desenvolvedor Front-end apaixonado por criar interfaces modernas, responsivas e intuitivas.<br>
-Atualmente atuo como Analista de Suporte ERP, desenvolvendo automações, investigando bugs e colaborando com equipes de desenvolvimento para entregar sistemas mais estáveis e eficientes.
+
+**Analista de Banco de Dados** focado em **SQL, MySQL, modelagem de dados, ETL e análise de dados**.
+
 </div>
 
 ---
 
-## 🚀 Tecnologias
+## 🗄️ Database
 
-### Front-end
-- React
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Vite
-
-### Ferramentas
-- Git & GitHub
-- REST APIs
-- SQL
-- Power Automate
-
-### Estudando
-- GraphQL
-- Shopify
-- VTEX
-- Performance Web
+* SQL
+* MySQL
+* MySQL Workbench
+* Modelagem de Dados
+* Normalização
+* Relacionamentos
+* JOINs
+* Subqueries
+* CTEs
+* Views
+* Stored Procedures
+* Índices
 
 ---
 
-## 💼 Experiência Profissional
+## 🔄 ETL & Data
 
-### Analista de Suporte ERP | Oficina Inteligente
-
-- Investigação, reprodução e documentação técnica de bugs.
-- Validação de funcionalidades e apoio às equipes de desenvolvimento.
-- Desenvolvimento de automações utilizando Power Automate para otimização de processos internos.
-- Consultas SQL para análise e validação de dados.
-- Suporte técnico em um ERP para gestão de oficinas mecânicas.
-
----
-
-## 💻 Projetos
-
-- Desenvolvimento de websites modernos e responsivos utilizando React, TypeScript, HTML, CSS e Tailwind CSS.
-- Projetos publicados no GitHub.
-- Deploy de aplicações utilizando Vercel.
-- Experiência com componentização, consumo de APIs REST e versionamento com Git.
+* ETL
+* SSIS
+* Extração e transformação de dados
+* Integração de dados
+* Tratamento e validação de dados
+* Análise de dados
 
 ---
 
-## 🎓 Certificações
+## 📚 Atualmente estudando
 
-- JavaScript
-- HTML5 & CSS3
-- Git & GitHub
-- Quality Assurance
-- Power Automate
-- Artificial Intelligence Fundamentals (IBM)
-- UX Design
-- Lean Six Sigma
+* SQL Avançado
+* Performance e otimização de consultas
+* Índices
+* Stored Procedures
+* ETL
+* SSIS
+* Data Warehouse
+* Business Intelligence
+
+---
+
+## 🎓 Cursos & Certificações
+
+* SQL
+* MySQL
+* ETL / SSIS
+* Git & GitHub
+* Artificial Intelligence Fundamentals — IBM
+* Lean Six Sigma
 
 ---
 
@@ -76,3 +70,6 @@ Atualmente atuo como Analista de Suporte ERP, desenvolvendo automações, invest
   </a>
 </p>
 
+<p align="center">
+  <i>Turning data into reliable information.</i>
+</p>
